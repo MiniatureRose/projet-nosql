@@ -13,9 +13,3 @@ Plusieurs urls :
 - Airflow : http://localhost:8080 avec identifiants airflow/airflow
 - MinIO : http://localhost:9000 avec identifiants minioadmin/minioadmin
 - RabbitMQ : http://localhost:15672 avec identifiants guest/guest
-
-docker exec -it mongodb-container bash
-sudo service mongod stop
-sudo service rabbitmq-server stop
-
-mongosh
