@@ -1,0 +1,7 @@
+*correction*
+__pycache__
+airflow/logs/
+Posts.json
+.DS_Store
+.env
+service-account.json
